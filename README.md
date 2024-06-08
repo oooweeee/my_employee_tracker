@@ -20,6 +20,10 @@ run \i db/seed.sql
 
 
 ## Usage
+![Screenshot 2024-06-08 161620](https://github.com/oooweeee/my_employee_tracker/assets/164698927/ef1a498d-3508-44f2-bb8d-454d627a321f)
+
+![Screenshot 2024-06-08 161658](https://github.com/oooweeee/my_employee_tracker/assets/164698927/f7a3541e-398b-49cc-95ef-cb970e71f2bb)
+
 
 ## Credits
 
