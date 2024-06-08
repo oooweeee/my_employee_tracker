@@ -38,3 +38,10 @@ delete employees, roles and departments.
 ## Tests
 
 i performed multiple tests to  get prompt to work. I also tested to make sure each function was capable of adding, viewing, deleting or updating successfully and made sure the database was capable of recieving data as well.
+
+## links
+demo video 
+https://drive.google.com/file/d/1D1L2NIYbA1lCLXJxKYBCwh6Oof9of605/view?usp=sharing
+GitHub Repository
+https://github.com/oooweeee/my_employee_tracker
+
